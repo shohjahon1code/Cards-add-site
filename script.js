@@ -18,7 +18,7 @@ const informations = [
     name: "MuhammadQodir",
     email: "MuhammadQodir@gmail.com",
     img: "./images/muhammadqodir.jpg",
-    city: "Fregana",
+    city: "Fergana",
     info: "Iam future full-stack developer. I wanna work to Google Company",
   },
 ];
